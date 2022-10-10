@@ -1,0 +1,9 @@
+# CSC110 Final Project Used Libraries
+
+# Testing and code checking
+pytest
+python-ta
+
+# Graphics and data visualization
+pandas
+matlab
